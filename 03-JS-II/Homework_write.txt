@@ -1,0 +1,11 @@
+* `for` : es un Statement que sirve para generar un blucle en el cual una variable va aumentando
+o disminuyendo su valor, hasta alcanzar un valor determinado, es un contador ascendente o descendente.
+
+* `&&`: es un operador logico  que hace referencia a la palabra"y" o en inglés "and" y lo que quiere decir 
+es que se debe cumplir esa condicion y tal otra.
+
+`||`: es un operador logico que hace referencia a la palabra "o" o en inglés "or" y lo que quiere decir 
+es que para que sea verdadera la oracion se debe cumplir con esa o la otra condicion.
+
+`!` es un operador logico que hace referencia a la negacion, si lo ponemos antes de una afirmacion, esta
+automaticamente se vuelve negativa.
