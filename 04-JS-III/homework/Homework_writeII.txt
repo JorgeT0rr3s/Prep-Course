@@ -1,0 +1,2 @@
+Array: Es un listado de elementos como numeros, caracteres, palabras o incluso mas arrays.
+en JS cada elemento del array debe estar separado por comas y estar entre corchetes cuadrados [].
