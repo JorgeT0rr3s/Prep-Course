@@ -1,0 +1,11 @@
+Objetos: son un conjunto de elementos los cuales se conforman por dos partes 
+propiedades y valor de cada propiedad
+
+Propiedades: Son  los elementos que conforman un objeto a los cuales se les puede asignar un valor y 
+tambien se pueden invocar por su nombre
+Métodos: Son propiedas de un metodo cuyo valor es una funcion
+
+Bucle for…in:es un ciclo for usado para recorrer las diferentes claves dentro de un objeto
+
+Notación de puntos vs notación de corchetes: estas son las distintas maneras de invocar un metodo, la notacion por puntos
+se usa para valiables globales, mientas que la de corchetes para valiables definidas especificamente en el objeto
